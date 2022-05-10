@@ -1,2 +1,2 @@
-# util
-Python utility functions for personal use
+# Utility functions
+Python utility functions for personal use.
